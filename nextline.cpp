@@ -4,10 +4,19 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"my name is priyanka" <<"\n";
+    cout<<"my name is priyanka \n and \n";
     cout<<"i am an engineering student";
     return 0;
 }
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     cout<<"my name is priyanka"<<"\n";
+//     cout<<"i am an engineering student";
+//     return 0;
+// }
+
 // #include<iostream>
 // using namespace std;
 // int main(){
