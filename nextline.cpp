@@ -1,6 +1,7 @@
 // ways in which i can show my instructions in next line
 // endl; which ends the line and takes the compiler to next line
 // "\n" works same as endl;
+// 1.
 #include<iostream>
 using namespace std;
 int main(){
@@ -8,7 +9,7 @@ int main(){
     cout<<"i am an engineering student";
     return 0;
 }
-
+// 2.
 // #include<iostream>
 // using namespace std;
 // int main(){
@@ -16,7 +17,7 @@ int main(){
 //     cout<<"i am an engineering student";
 //     return 0;
 // }
-
+// 3.
 // #include<iostream>
 // using namespace std;
 // int main(){
