@@ -3,6 +3,7 @@
 //if we use a%(-b)=a%b
 //a%a=0
 //a%b=a [if a<b]
+//modulus operator only gives the remainder value of two divided numbers
 
 #include<iostream>
 using namespace std;
