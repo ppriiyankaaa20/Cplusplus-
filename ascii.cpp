@@ -1,8 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    char x;
+    int x;
     cin>>x;
-    cout<<(int)x;
+    cout<<(char)x;
     return 0;
 }
+//the above example is int to char..similarly we can also do it for char to int
