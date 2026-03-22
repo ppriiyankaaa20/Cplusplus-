@@ -12,3 +12,6 @@ int main(){
     }
     return 0;
 }
+//can also be written using only if statements for both conditions
+//if(n%2==0)
+//if(n%2!=0)
