@@ -13,3 +13,4 @@ int main(){
     return 0;
 }
 //(n%15==0) can also be written
+//for or operation just put ||
