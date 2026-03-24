@@ -9,7 +9,7 @@ int main(){
     cin>>b;
     cout<<"c:";
     cin>>c;
-    if((a+b)>c){
+    if((a+b)>c and (b+c)>a and (c+a)>b){
         cout<<"it is valid triangle";
     }
     else{
